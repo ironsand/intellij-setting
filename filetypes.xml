@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="environment" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="xbrl" type="XML" />
+      <mapping pattern=".jobber" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
