@@ -15628,6 +15628,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-43da1f909aa7/lib" />
       </SOURCES>
     </library>
+    <library name="yahoo_finance_jp (v0.1.18@095a15, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/lib" />
+      </SOURCES>
+    </library>
     <library name="yahoo_finance_jp (v0.1.1@c9d645, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/bundler/gems/yahoo_finance_jp-c9d64548f9cb/bin" />
