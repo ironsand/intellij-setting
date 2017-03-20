@@ -12696,6 +12696,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/roo-2.5.1/.github" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="roo-xls (v1.0.0, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/roo-xls-1.0.0/lib" />
@@ -13342,6 +13352,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
     <library name="safe_yaml (v1.0.4, rbenv: 2.2.2) [gem]">
