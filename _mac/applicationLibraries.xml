@@ -10114,6 +10114,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/pry-byebug-3.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="pry-doc (v0.10.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-doc-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/pry-doc-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-doc (v0.8.0, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/pry-doc-0.8.0/lib" />
