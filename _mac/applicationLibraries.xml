@@ -15122,6 +15122,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.3, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier (v2.5.3, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/uglifier-2.5.3/lib" />
@@ -15942,6 +15950,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-095a15927f49/lib" />
+      </SOURCES>
+    </library>
+    <library name="yahoo_finance_jp (v0.1.19@a2c407, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-a2c40729fccf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-a2c40729fccf/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-a2c40729fccf/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/yahoo_finance_jp-a2c40729fccf/lib" />
       </SOURCES>
     </library>
     <library name="yahoo_finance_jp (v0.1.1@c9d645, rbenv: 2.2.2) [gem]">
