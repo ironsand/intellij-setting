@@ -1,5 +1,6 @@
 <application>
   <component name="PowerModeII">
+    <option name="enabled" value="false" />
     <option name="isCaretAction" value="false" />
     <option name="isPowerIndicatorEnabled" value="false" />
     <option name="isSoundsPlaying" value="true" />
