@@ -1,0 +1,7 @@
+<application>
+  <component name="PowerModeII">
+    <option name="isCaretAction" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="isSoundsPlaying" value="true" />
+  </component>
+</application>
