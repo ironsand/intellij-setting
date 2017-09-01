@@ -2,4 +2,7 @@
   <CssCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <option name="INDENT_WHEN_CASES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
