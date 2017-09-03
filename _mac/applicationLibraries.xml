@@ -364,6 +364,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/bundler-1.15.1/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
     <library name="business_time (v0.7.5@435c21, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/bundler/gems/business_time-435c21b1aed4/lib" />
