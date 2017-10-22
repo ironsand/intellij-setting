@@ -3194,6 +3194,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.6.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="serverspec (v2.40.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/serverspec-2.40.0/bin" />
