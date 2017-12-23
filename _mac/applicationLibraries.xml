@@ -1494,6 +1494,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/fe_core_ext-0.1.46/bin" />
       </SOURCES>
     </library>
+    <library name="fe_core_ext (v0.1.46, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.46/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.46/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.46/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.46/bin" />
+      </SOURCES>
+    </library>
+    <library name="fe_core_ext (v0.1.47, rbenv: 2.4.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.47/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.47/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.2/lib/ruby/gems/2.4.0/gems/fe_core_ext-0.1.47/bin" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.14, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.14" />
