@@ -1,8 +1,12 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <CssCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
-  <codeStyleSettings language="ruby">
+  <Ruby>
     <option name="INDENT_WHEN_CASES" value="false" />
+  </Ruby>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
