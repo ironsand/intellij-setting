@@ -7158,6 +7158,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/whenever-0.9.7/gemfiles" />
       </SOURCES>
     </library>
+    <library name="where_exists (v1.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/where_exists-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/where_exists-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="wmi-lite (v1.0.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/wmi-lite-1.0.0/lib" />
