@@ -4428,6 +4428,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1/patches" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/suppressions" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.2/bin" />
+      </SOURCES>
+    </library>
     <library name="nori (v2.6.0, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/nori-2.6.0/lib" />
@@ -7350,6 +7368,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-aa95c562e8cc/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-aa95c562e8cc/bin" />
+      </SOURCES>
+    </library>
+    <library name="yahoo_finance_jp (v0.1.25@c7f9bb, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-c7f9bb76d274/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-c7f9bb76d274/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-c7f9bb76d274/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-c7f9bb76d274/lib" />
       </SOURCES>
     </library>
     <library name="yard (v0.9.5, rbenv: 2.3.3) [gem]">
