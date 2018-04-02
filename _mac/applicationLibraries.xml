@@ -7400,6 +7400,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-ebdd7b7895f5/bin" />
       </SOURCES>
     </library>
+    <library name="yahoo_finance_jp (v0.2.1@d0b305, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-d0b305e75c2a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-d0b305e75c2a/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-d0b305e75c2a/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/bundler/gems/yahoo_finance_jp-d0b305e75c2a/lib" />
+      </SOURCES>
+    </library>
     <library name="yard (v0.9.5, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/yard-0.9.5/bin" />
