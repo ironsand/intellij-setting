@@ -192,6 +192,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/actionview-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_bootstrap_skin (v0.1.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/active_bootstrap_skin-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/active_bootstrap_skin-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.9.4, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/active_model_serializers-0.9.4/lib" />
@@ -1666,6 +1674,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/crass-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/crass-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="database_cleaner (v1.5.3, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/database_cleaner-1.5.3/lib" />
@@ -3102,6 +3118,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-1.0.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v1.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-actionview (v1.0.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.0.1/lib" />
@@ -3110,12 +3134,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-actionview-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="kaminari-actionview (v1.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-actionview-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari-activerecord (v1.0.1, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.0.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-activerecord-1.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-activerecord (v1.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-activerecord-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="kaminari-core (v1.0.1, rbenv: 2.3.3) [gem]">
@@ -3128,6 +3168,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/app" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/kaminari-core-1.0.1/config" />
+      </SOURCES>
+    </library>
+    <library name="kaminari-core (v1.1.1, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/kaminari-core-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="kgio (v2.11.0, rbenv: 2.3.3) [gem]">
@@ -3290,6 +3338,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/loofah-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="loofah (v2.2.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/loofah-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="lumberjack (v1.0.10, rbenv: 2.3.3) [gem]">
@@ -4734,6 +4790,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/pundit-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.10, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-1.6.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rack-1.6.10/lib" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.5, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rack-1.6.5/bin" />
@@ -4974,6 +5038,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.8/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v1.0.9, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-dom-testing-1.0.9/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-dom-testing (v2.0.3, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/rails-dom-testing-2.0.3/lib" />
@@ -5048,6 +5120,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rails_autolink (v1.1.6, rbenv: 2.3.3) [gem]">
