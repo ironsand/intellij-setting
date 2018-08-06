@@ -2594,6 +2594,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-analytics-rails-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.10.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/generated" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/third_party" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/generated" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.10.3/third_party" />
+      </SOURCES>
+    </library>
     <library name="google-api-client (v0.23.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/google-api-client-0.23.0/lib" />
@@ -2610,6 +2622,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/googleauth-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.6.3, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/googleauth-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/googleauth-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="googlecharts (v1.6.12, rbenv: 2.3.3) [gem]">
@@ -2788,6 +2808,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/httpclient-2.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hurley (v0.2, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hurley-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/hurley-0.2/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, rbenv: 2.3.3) [gem]">
@@ -4548,6 +4576,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="os (v1.0.0, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="pdf-reader (v2.1.0, rbenv: 2.4.3) [gem]">
