@@ -448,6 +448,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="bootsnap (v1.3.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bootsnap-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-datepicker-rails (v1.6.4.1, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/bootstrap-datepicker-rails-1.6.4.1/lib" />
@@ -3444,6 +3452,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/uglifier-4.1.18/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.19, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/uglifier-4.1.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/uglifier-4.1.19/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, rbenv: 2.4.3) [gem]">
