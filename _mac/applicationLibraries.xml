@@ -112,6 +112,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/active_model_serializers-0.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="active_skin (v0.0.12, rbenv: 2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/active_skin-0.0.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/active_skin-0.0.12/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v1.3.0, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/activeadmin-1.3.0/lib" />
@@ -1714,14 +1722,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/little-plugger-1.1.4/lib" />
       </SOURCES>
     </library>
-    <library name="logging (v2.1.0.48, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/logging-2.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/logging-2.2.2/lib" />
-      </SOURCES>
-    </library>
     <library name="logging (v2.2.2, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/logging-2.2.2/lib" />
@@ -2240,14 +2240,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/orm_adapter-0.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="os (v0.9.4, rbenv: 2.4.3) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-0.9.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/os-0.9.6/lib" />
       </SOURCES>
     </library>
     <library name="os (v0.9.6, rbenv: 2.4.3) [gem]">
