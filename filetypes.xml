@@ -6,6 +6,7 @@
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
