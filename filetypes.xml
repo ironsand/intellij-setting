@@ -10,6 +10,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping pattern=".pryrc" type="Ruby" />
     </extensionMap>
   </component>
 </application>
