@@ -2093,6 +2093,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-1.16.4/man" />
       </excluded>
     </library>
+    <library name="bundler (v2.0.1, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
+      </excluded>
+    </library>
     <library name="business_time (v0.7.6, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
