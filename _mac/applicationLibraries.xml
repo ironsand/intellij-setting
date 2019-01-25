@@ -5668,6 +5668,28 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="itamae (v1.10.3, rbenv: 2.4.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/itamae-1.10.3/tasks" />
+      </excluded>
+    </library>
     <library name="itamae (v1.9.11, rbenv: 2.4.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
