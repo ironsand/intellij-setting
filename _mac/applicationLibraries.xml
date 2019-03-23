@@ -4552,6 +4552,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-rails-4.7.0.4/test" />
       </excluded>
     </library>
+    <library name="font-awesome-sass (v5.8.1, rbenv: 2.4.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.8.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.8.1/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/font-awesome-sass-5.8.1/assets" />
+      </excluded>
+    </library>
     <library name="foreman (v0.63.0, rbenv: 2.4.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
