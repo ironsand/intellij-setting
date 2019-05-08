@@ -2,4 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
 </application>
