@@ -6322,6 +6322,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pg-1.1.4/spec" />
       </excluded>
     </library>
+    <library name="pony (v1.13.1, rbenv: 2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pony-1.13.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pony-1.13.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pony-1.13.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pony-1.13.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/pony-1.13.1/spec" />
+      </excluded>
+    </library>
     <library name="powder (v0.4.0, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
