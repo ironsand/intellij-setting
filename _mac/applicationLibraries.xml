@@ -10282,6 +10282,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.3/lib/ruby/gems/2.6.0/gems/signet-0.11.0/website" />
       </excluded>
     </library>
+    <library name="simple_command (v0.1.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/simple_command-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/simple_command-0.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/simple_command-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/simple_command-0.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/simple_command-0.1.0/spec" />
+      </excluded>
+    </library>
     <library name="specinfra (v2.77.0, rbenv: 2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
