@@ -26,6 +26,7 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl semicolon" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.History.Browse">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -33,6 +34,7 @@
   <action id="Console.TableResult.Reload">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Copy">
