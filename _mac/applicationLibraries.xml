@@ -1519,6 +1519,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/Ascii85-1.0.3/spec" />
       </excluded>
     </library>
+    <library name="ast (v2.4.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
     <library name="atomos (v0.1.3, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5152,6 +5168,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/itamae-1.10.6/tasks" />
       </excluded>
     </library>
+    <library name="jaro_winkler (v1.5.4, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/jaro_winkler-1.5.4/ext" />
+      </excluded>
+    </library>
     <library name="jbuilder (v2.10.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7521,6 +7553,42 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/os-1.0.1/autotest" />
       </excluded>
     </library>
+    <library name="parallel (v1.19.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parallel-1.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parallel-1.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.7.0.4, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/ci" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/parser-2.7.0.4/test" />
+      </excluded>
+    </library>
     <library name="pdf-reader (v2.4.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8789,6 +8857,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/railties-6.0.2.1/exe" />
       </excluded>
     </library>
+    <library name="rainbow (v3.0.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="raindrops (v0.19.0, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9624,6 +9708,59 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/2.6.0/rss/maker" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/2.6.0/rss/content" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/2.6.0/rss/dublincore" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.80.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-0.80.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-faker (v1.0.0, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/manual" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/manual" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/manual" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/rubocop-faker-1.0.0/.circleci" />
       </excluded>
     </library>
     <library name="ruby-graphviz (v1.2.4, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -11177,6 +11314,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unf_ext-0.0.7.6/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unf_ext-0.0.7.6/test" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.1, rbenv: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unicode-display_width-1.6.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unicode-display_width-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unicode-display_width-1.6.1/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/unicode-display_width-1.6.1/data" />
       </excluded>
     </library>
     <library name="unicorn (v5.4.1, rbenv: 2.5.5) [gem]" type="rubylib">
