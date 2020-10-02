@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="SQL" injector-id="ruby">
-      <display-name>Heredoc SQL</display-name>
-      <place disabled="true"><![CDATA[heredocElement("SQL")]]></place>
-    </injection>
-  </component>
-</application>
