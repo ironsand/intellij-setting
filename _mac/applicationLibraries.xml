@@ -5066,6 +5066,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/capistrano-ssh-doctor-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="capistrano-ssh-doctor (v1.0.0@0e5de7, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/screenshots" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/capistrano-ssh-doctor-0e5de7c1c4d9/screenshots" />
+      </excluded>
+    </library>
     <library name="capistrano3-puma (v1.2.1, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
