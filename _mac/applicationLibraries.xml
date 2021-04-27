@@ -4536,11 +4536,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/bcrypt/3.1.16" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/bcrypt-3.1.16/spec" />
@@ -9385,6 +9387,42 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/devise-4.7.3/config" />
+      </excluded>
+    </library>
+    <library name="devise (v4.7.3@5d5636, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/guides" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/bundler/gems/devise-5d5636f03ac1/gemfiles" />
       </excluded>
     </library>
     <library name="devise_invitable (v2.0.2, rbenv: 2.6.5) [gem]" type="rubylib">
