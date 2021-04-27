@@ -21751,6 +21751,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/.github" />
       </excluded>
     </library>
+    <library name="omniauth (v2.0.4, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-2.0.4/.github" />
+      </excluded>
+    </library>
     <library name="omniauth-google-oauth2 (v0.8.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21846,6 +21862,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/examples" />
       </excluded>
     </library>
+    <library name="omniauth-google-oauth2 (v1.0.0, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-google-oauth2-1.0.0/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-oauth2 (v1.7.0, rbenv: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -21911,6 +21946,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/.github" />
+      </excluded>
+    </library>
+    <library name="omniauth-oauth2 (v1.7.1, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/omniauth-oauth2-1.7.1/.github" />
       </excluded>
     </library>
     <library name="open3 (v0.1.0, rbenv: 2.7.2) [gem]" type="rubylib">
@@ -24593,6 +24647,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/rack-protection-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.1.0, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/rack-protection-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/rack-protection-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.5, rbenv: 2.6.5) [gem]" type="rubylib">
