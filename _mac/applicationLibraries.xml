@@ -6715,6 +6715,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/.github" />
       </excluded>
     </library>
+    <library name="capistrano (v3.16.0, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/capistrano-3.16.0/.github" />
+      </excluded>
+    </library>
     <library name="capistrano-bundler (v1.5.0, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30963,6 +30987,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/.github" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/examples" />
+      </excluded>
+    </library>
+    <library name="sshkit (v1.21.2, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/sshkit-1.21.2/examples" />
       </excluded>
     </library>
     <library name="stringex (v1.5.1, rbenv: 2.6.5) [gem]" type="rubylib">
