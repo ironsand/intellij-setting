@@ -14780,6 +14780,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/icalendar-2.6.1/spec" />
       </excluded>
     </library>
+    <library name="icalendar (v2.7.1, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/icalendar-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/icalendar-2.7.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/icalendar-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/icalendar-2.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/icalendar-2.7.1/spec" />
+      </excluded>
+    </library>
     <library name="ice_cube (v0.16.3, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -14816,6 +14832,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ice_cube-0.16.3/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/ice_cube-0.16.3/config" />
+      </excluded>
+    </library>
+    <library name="ice_cube (v0.16.3, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/ice_cube-0.16.3/config" />
       </excluded>
     </library>
     <library name="ice_nine (v0.11.2, rbenv: 2.6.5) [gem]" type="rubylib">
@@ -33780,6 +33815,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/xcal-2.1.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.6.5/lib/ruby/gems/2.6.0/gems/xcal-2.1.0/exe" />
+      </excluded>
+    </library>
+    <library name="xcal (v2.2.0, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/xcal-2.2.0/exe" />
       </excluded>
     </library>
     <library name="xcodeproj (v1.14.0, rbenv: 2.5.5) [gem]" type="rubylib">
