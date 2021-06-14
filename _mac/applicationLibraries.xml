@@ -273,6 +273,19 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/arel-9.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v10.2.5.1, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/autoprefixer-rails-10.2.5.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/autoprefixer-rails-10.2.5.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/autoprefixer-rails-10.2.5.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/autoprefixer-rails-10.2.5.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="autoprefixer-rails (v9.7.4, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -437,6 +450,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-4.4.1/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-4.4.1/tasks" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-4.4.1/assets" />
+      </excluded>
+    </library>
+    <library name="bootstrap (v5.0.1, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/tasks" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/tasks" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/tasks" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/bootstrap-5.0.1/assets" />
       </excluded>
     </library>
     <library name="bootstrap-datepicker-rails (v1.9.0.1, rbenv: 2.7.2) [gem]" type="rubylib">
@@ -2766,6 +2801,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-1.16.0/assets" />
+      </excluded>
+    </library>
+    <library name="popper_js (v2.9.2, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-2.9.2/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-2.9.2/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/popper_js-2.9.2/assets" />
       </excluded>
     </library>
     <library name="power_assert (v1.1.3, ruby-2.0.0-p648) [gem]" type="rubylib">
