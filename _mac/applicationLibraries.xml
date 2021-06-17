@@ -2221,6 +2221,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moji-1.6/lib" />
       </SOURCES>
     </library>
+    <library name="moments (v0.1.0, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moments-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moments-0.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moments-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moments-0.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/moments-0.1.0/spec" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.4.2, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
