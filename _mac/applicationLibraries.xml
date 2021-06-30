@@ -5550,6 +5550,27 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/2.7.0/irb/ext" />
       </excluded>
     </library>
+    <library name="iStats (v1.6.1, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/integrations" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/integrations" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/iStats-1.6.1/integrations" />
+      </excluded>
+    </library>
     <library name="itamae (v1.12.1, rbenv: 2.7.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8723,6 +8744,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/parallel-1.20.1/lib" />
       </SOURCES>
     </library>
+    <library name="parseconfig (v1.1.0, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/parseconfig-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/parseconfig-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v3.0.1.1, rbenv: 2.7.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11578,6 +11610,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/solargraph-0.42.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/solargraph-0.42.3/yardoc" />
+      </excluded>
+    </library>
+    <library name="sparkr (v0.4.1, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/sparkr-0.4.1/examples" />
       </excluded>
     </library>
     <library name="specinfra (v2.82.25, rbenv: 2.7.3) [gem]" type="rubylib">
