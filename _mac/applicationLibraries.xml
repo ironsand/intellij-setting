@@ -9280,6 +9280,38 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/bin" />
       </excluded>
     </library>
+    <library name="pry (v0.13.0, rbenv: 2.7.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/pry-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/pry-0.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/pry-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/pry-0.13.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/pry-0.13.0/bin" />
+      </excluded>
+    </library>
+    <library name="pry (v0.13.0, rbenv: 3.0.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/pry-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/pry-0.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/pry-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/pry-0.13.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/3.0.1/lib/ruby/gems/3.0.0/gems/pry-0.13.0/bin" />
+      </excluded>
+    </library>
     <library name="pry (v0.13.1, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13481,10 +13513,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/websocket-driver/0.7.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/websocket-driver-0.7.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/websocket-driver-0.7.5/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/websocket-driver/0.7.5" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/websocket-driver-0.7.5/ext" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.7.3/lib/ruby/gems/2.7.0/gems/websocket-driver-0.7.5/lib" />
       </SOURCES>
